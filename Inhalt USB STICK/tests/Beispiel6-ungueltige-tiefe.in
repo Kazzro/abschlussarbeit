@@ -1,0 +1,22 @@
+// Auftrag ungültige Tiefe
+900 10
+100, 100, 1, Auftrag A
+210, 297, 2, Auftrag B
+297, 420, 3, Auftrag C
+880, 300, 4, Auftrag D
+210, 297, 5, Auftrag E
+100, 100, 6, Auftrag F
+210, 297, 7, Auftrag G
+297, 420, 8, Auftrag H
+880, 300, 9, Auftrag I
+210, 297, 10, Auftrag J
+100, 100, 11, Auftrag K
+210, 297, 12, Auftrag L
+297, 420, 13, Auftrag M
+880, 300, 14, Auftrag N
+210, 297, 15, Auftrag O
+100, 100, 16, Auftrag P
+210, 297, 17, Auftrag Q
+297, 420, 18, Auftrag R
+880, 300, 19, Auftrag S
+210, 297, 20, Auftrag T

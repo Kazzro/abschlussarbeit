@@ -1,0 +1,29 @@
+// Auftrag IHK3
+Benötigte Länge: 129.4 cm
+Benutzte Flaeche: 89.90 %
+
+Positionierung der Kundenaufträge:
+    0 0 100 100 - 1 - Auftrag A
+    0 100 880 300 - 4 - Auftrag D
+    0 400 210 297 - 2 - Auftrag B
+    210 400 420 297 - 3 - Auftrag C
+    630 400 210 297 - 5 - Auftrag E
+    100 0 100 100 - 6 - Auftrag F
+    0 697 210 297 - 7 - Auftrag G
+    210 697 420 297 - 8 - Auftrag H
+    0 994 880 300 - 9 - Auftrag I
+    630 697 210 297 - 10 - Auftrag J
+
+Verbleibende Andockpunkte:
+    880 100
+    840 400
+    0 697
+    210 697
+    630 697
+    200 0
+    100 100
+    210 994
+    880 994
+    0 1294
+    840 697
+    630 994
